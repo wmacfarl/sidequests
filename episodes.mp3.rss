@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="http://sidequestspodcast.com/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
     <description>Conversations about video games and game design
 </description>
-    <lastBuildDate>Thu, 15 Jun 2017 23:30:30 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2017 23:49:26 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.8.9</generator>
 
@@ -110,7 +110,7 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="http://sidequestspodcast/episodes/Episode02.mp3" length="45710138" type="audio/mpeg" guid="c656b37f0cc305a84aa0a40c6455bc04" />
+            <enclosure url="http://sidequestspodcast.com/episodes/Episode02.mp3" length="45710138" type="audio/mpeg" guid="ac72b7b8d71328c0674d9ff08d66540e" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>A Subtle Subtitle</itunes:subtitle>
             <itunes:summary></itunes:summary>
@@ -195,7 +195,7 @@
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="http://sidequestspodcast/episodes/Episode01.mp3" length="50180774" type="audio/mpeg" guid="5493a368d18353c5f8a309592c4ed96a" />
+            <enclosure url="http://sidequestspodcast.com/episodes/Episode01.mp3" length="50180774" type="audio/mpeg" guid="9f89ee537a0f582ee5548397d9c1fd99" />
             <itunes:keywords></itunes:keywords>
             <itunes:subtitle>A Subtle Subtitle</itunes:subtitle>
             <itunes:summary></itunes:summary>
