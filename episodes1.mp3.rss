@@ -8,7 +8,7 @@
      version="2.0">
 
   <channel>
-    <title>Octopod</title>
+    <title>Sidequests</title>
     <link>http://sidequestspodcast.com</link>
     <atom:link href="http://sidequestspodcast.com/episodes.mp3.rss" rel="self" type="application/rss+xml" title="mp3 Episode RSS-Feed"/>
     <atom:link href="http://sidequestspodcast.com/episodes.mp3.rss" rel="first" type="application/rss+xml" />
@@ -16,86 +16,199 @@
     
     
 
-    <atom:link rel="alternate" href="http://sidequestspodcast.com/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
-<atom:link rel="alternate" href="http://sidequestspodcast.com/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
-    <description>My super duper cool podcast.
+    <atom:link rel="alternate" href="http://sidequestspodcast.com/episodes.ogg.rss" type="application/rss+xml" title="ogg Episode RSS-Feed"/>
+<atom:link rel="alternate" href="http://sidequestspodcast.com/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
+    <description>Conversations about video games and game design
 </description>
-    <lastBuildDate>Thu, 01 Jun 2017 01:13:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Jun 2017 23:30:30 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.8.9</generator>
 
-    <itunes:summary>My super duper cool podcast.
+    <itunes:summary>Conversations about video games and game design
 </itunes:summary>
-    <itunes:author>Uncle Octopod</itunes:author>
+    <itunes:author>Bryce Taylor and Will Macfarlane</itunes:author>
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="http://sidequestspodcast.com/img/logo-itunes.jpg" />
     <itunes:owner>
-      <itunes:name>Uncle Octopod</itunes:name>
-      <itunes:email>octopod@example.com</itunes:email>
+      <itunes:name>Bryce Taylor and Will Macfarlane</itunes:name>
+      <itunes:email>sidequestspodcast@gmail.com</itunes:email>
     </itunes:owner>
-    <managingEditor>octopod@example.com (Uncle Octopod)</managingEditor>
+    <managingEditor>sidequestspodcast@gmail.com (Bryce Taylor and Will Macfarlane)</managingEditor>
     <copyright>CC BY 4.0</copyright>
-    <itunes:subtitle>Static Site Podcast Publishing for Geeks</itunes:subtitle>
-    <itunes:keywords>octopod, podcast, magic</itunes:keywords>
+    <itunes:subtitle></itunes:subtitle>
+    <itunes:keywords>games, video games</itunes:keywords>
     <image>
-      <title>Octopod</title>
+      <title>Sidequests</title>
       <url>http://sidequestspodcast.com/img/logo-itunes.jpg</url>
       <link>http://sidequestspodcast.com</link>
     </image>
     
-    <itunes:category text="Technology">
+    <itunes:category text="Video Games">
     
     </itunes:category>
     
     
       
-    
-      
         
         
           <item>
-            <title>Episode 0 - Getting Started Is Never Easy</title>
-            <link>http://sidequestspodcast.com/2016/03/22/episode0.html</link>
-            <atom:link rel="http://podlove.org/deep-link" href="http://sidequestspodcast.com/players/episode0"/>
-            <comments>http://sidequestspodcast.com/2016/03/22/episode0.html#disqus_thread</comments>
-            <pubDate>Tue, 22 Mar 2016 00:00:00 +0000</pubDate>
+            <title>Video Game Canon pt. 2 - A Subtle Subtitle</title>
+            <link>http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-2.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://sidequestspodcast.com/players/video-game-canon-pt_-2"/>
+            <comments>http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-2.html#disqus_thread</comments>
+            <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
             
-            <guid isPermaLink="false">http://sidequestspodcast.com/2016/03/22/episode0.html</guid>
-            <description><![CDATA[
+            <guid isPermaLink="false">http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-2.html</guid>
+            <description><![CDATA[<h2 id="a-subtle-subtitle">A Subtle Subtitle</h2>
 
-<h2 id="show-notes-and-links">Show Notes and Links</h2>
+<h2 id="-pagesubtitle-">{{ page.subtitle }}</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>{{ page</td>
+      <td>web_player_moderator:site }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
 
 <ul>
-  <li>Well this is the place for the Show Notes.</li>
-  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+  <li>Note</li>
+</ul>
+
+<h2 id="shownotes-and-links-1">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
 </ul>
 ]]></description>
-            <content:encoded><![CDATA[
+            <content:encoded><![CDATA[<h2 id="a-subtle-subtitle">A Subtle Subtitle</h2>
 
-<h2 id="show-notes-and-links">Show Notes and Links</h2>
+<h2 id="-pagesubtitle-">{{ page.subtitle }}</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>{{ page</td>
+      <td>web_player_moderator:site }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
 
 <ul>
-  <li>Well this is the place for the Show Notes.</li>
-  <li>Send Feedback either in the <a href="https://github.com/haslinger/jekyll-octopod">Github Repo</a> or at the Twitter account <a href="http://twitter.com/@AuaUffCode">@AuaUffCode</a>.</li>
+  <li>Note</li>
+</ul>
+
+<h2 id="shownotes-and-links-1">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
 </ul>
 ]]></content:encoded>
             
-            <enclosure url="http://your.fancy.hosting/episodes/episode0.mp3" length="45750" type="audio/mpeg" guid="d99fde1e51cced5403a98c55d3862f8f" />
+            <enclosure url="http://sidequestspodcast/episodes/Episode02.mp3" length="45710138" type="audio/mpeg" guid="c656b37f0cc305a84aa0a40c6455bc04" />
             <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>Getting Started Is Never Easy</itunes:subtitle>
+            <itunes:subtitle>A Subtle Subtitle</itunes:subtitle>
             <itunes:summary></itunes:summary>
-            <itunes:author>Arne and Stefan</itunes:author>
+            <itunes:author>Bryce Taylor and Will Macfarlane</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>0:03:13</itunes:duration>
+            <itunes:duration>0:01:00</itunes:duration>
             
             
             <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
               
               <psc:chapter start="00:00:00.000" title="Intro." />
               
-              <psc:chapter start="00:00:01.000" title="... Shoubidoubidoo ..." />
+              <psc:chapter start="00:00:30.000" title="Outro." />
               
-              <psc:chapter start="00:00:02.000" title="Outro." />
+            </psc:chapters>
+            
+            
+            
+          </item>
+        
+      
+    
+      
+        
+        
+          <item>
+            <title>Video Game Canon pt. 1 - A Subtle Subtitle</title>
+            <link>http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-1.html</link>
+            <atom:link rel="http://podlove.org/deep-link" href="http://sidequestspodcast.com/players/video-game-canon-pt_-1"/>
+            <comments>http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-1.html#disqus_thread</comments>
+            <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
+            
+            <guid isPermaLink="false">http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-1.html</guid>
+            <description><![CDATA[<h2 id="a-subtle-subtitle">A Subtle Subtitle</h2>
+
+<h2 id="-pagesubtitle-">{{ page.subtitle }}</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>{{ page</td>
+      <td>web_player_moderator:site }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+
+<h2 id="shownotes-and-links-1">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+]]></description>
+            <content:encoded><![CDATA[<h2 id="a-subtle-subtitle">A Subtle Subtitle</h2>
+
+<h2 id="-pagesubtitle-">{{ page.subtitle }}</h2>
+
+<table>
+  <tbody>
+    <tr>
+      <td>{{ page</td>
+      <td>web_player_moderator:site }}</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="shownotes-and-links">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+
+<h2 id="shownotes-and-links-1">Shownotes and Links</h2>
+
+<ul>
+  <li>Note</li>
+</ul>
+]]></content:encoded>
+            
+            <enclosure url="http://sidequestspodcast/episodes/Episode01.mp3" length="50180774" type="audio/mpeg" guid="5493a368d18353c5f8a309592c4ed96a" />
+            <itunes:keywords></itunes:keywords>
+            <itunes:subtitle>A Subtle Subtitle</itunes:subtitle>
+            <itunes:summary></itunes:summary>
+            <itunes:author>Bryce Taylor and Will Macfarlane</itunes:author>
+            <itunes:explicit>no</itunes:explicit>
+            <itunes:duration>0:01:00</itunes:duration>
+            
+            
+            <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+              
+              <psc:chapter start="00:00:00.000" title="Intro." />
+              
+              <psc:chapter start="00:00:30.000" title="Outro." />
               
             </psc:chapters>
             
