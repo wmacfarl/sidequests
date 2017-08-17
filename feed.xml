@@ -1,47 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://sidequestspodcast.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://sidequestspodcast.com/" rel="alternate" type="text/html" /><updated>2017-06-15T23:49:26+00:00</updated><id>http://sidequestspodcast.com/</id><title type="html">Sidequests</title><subtitle>Conversations about video games and game design</subtitle><author><name>Bryce Taylor and Will Macfarlane</name></author><entry><title type="html">Video Game Canon pt. 2</title><link href="http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-2.html" rel="alternate" type="text/html" title="Video Game Canon pt. 2" /><published>2017-06-15T00:00:00+00:00</published><updated>2017-06-15T00:00:00+00:00</updated><id>http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-2</id><content type="html" xml:base="http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-2.html">&lt;h2 id=&quot;a-subtle-subtitle&quot;&gt;A Subtle Subtitle&lt;/h2&gt;
-
-&lt;h2 id=&quot;-pagesubtitle-&quot;&gt;{{ page.subtitle }}&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;{{ page&lt;/td&gt;
-      &lt;td&gt;web_player_moderator:site }}&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;shownotes-and-links&quot;&gt;Shownotes and Links&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://sidequestspodcast.com/feed.xml" rel="self" type="application/atom+xml" /><link href="http://sidequestspodcast.com/" rel="alternate" type="text/html" /><updated>2017-08-17T23:02:22+00:00</updated><id>http://sidequestspodcast.com/</id><title type="html">Sidequests</title><subtitle>Conversations about video games and game design</subtitle><author><name>Bryce Taylor and Will Macfarlane</name></author><entry><title type="html">Video Game Canon pt. 2</title><link href="http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-2.html" rel="alternate" type="text/html" title="Video Game Canon pt. 2" /><published>2017-06-15T00:00:00+00:00</published><updated>2017-06-15T00:00:00+00:00</updated><id>http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-2</id><content type="html" xml:base="http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-2.html">&lt;h2 id=&quot;shownotes-and-links&quot;&gt;Shownotes and Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Note&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;shownotes-and-links-1&quot;&gt;Shownotes and Links&lt;/h2&gt;
+&lt;/ul&gt;</content><author><name>Bryce Taylor and Will Macfarlane</name></author><summary type="html">Shownotes and Links</summary></entry><entry><title type="html">Video Game Canon pt. 1</title><link href="http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-1.html" rel="alternate" type="text/html" title="Video Game Canon pt. 1" /><published>2017-06-15T00:00:00+00:00</published><updated>2017-06-15T00:00:00+00:00</updated><id>http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-1</id><content type="html" xml:base="http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-1.html">&lt;h2 id=&quot;shownotes-and-links&quot;&gt;Shownotes and Links&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Note&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Bryce Taylor and Will Macfarlane</name></author><summary type="html">A Subtle Subtitle</summary></entry><entry><title type="html">Video Game Canon pt. 1</title><link href="http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-1.html" rel="alternate" type="text/html" title="Video Game Canon pt. 1" /><published>2017-06-15T00:00:00+00:00</published><updated>2017-06-15T00:00:00+00:00</updated><id>http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-1</id><content type="html" xml:base="http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-1.html">&lt;h2 id=&quot;a-subtle-subtitle&quot;&gt;A Subtle Subtitle&lt;/h2&gt;
-
-&lt;h2 id=&quot;-pagesubtitle-&quot;&gt;{{ page.subtitle }}&lt;/h2&gt;
-
-&lt;table&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;{{ page&lt;/td&gt;
-      &lt;td&gt;web_player_moderator:site }}&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;shownotes-and-links&quot;&gt;Shownotes and Links&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Note&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;shownotes-and-links-1&quot;&gt;Shownotes and Links&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Note&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>Bryce Taylor and Will Macfarlane</name></author><summary type="html">A Subtle Subtitle</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>Bryce Taylor and Will Macfarlane</name></author><summary type="html">Shownotes and Links</summary></entry></feed>

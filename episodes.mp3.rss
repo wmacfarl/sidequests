@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="http://sidequestspodcast.com/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
     <description>Conversations about video games and game design
 </description>
-    <lastBuildDate>Thu, 15 Jun 2017 23:49:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Aug 2017 23:02:22 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.8.9</generator>
 
@@ -52,58 +52,20 @@
         
         
           <item>
-            <title>Video Game Canon pt. 2 - A Subtle Subtitle</title>
+            <title>Video Game Canon pt. 2 - </title>
             <link>http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-2.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="http://sidequestspodcast.com/players/video-game-canon-pt_-2"/>
             <comments>http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-2.html#disqus_thread</comments>
             <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-2.html</guid>
-            <description><![CDATA[<h2 id="a-subtle-subtitle">A Subtle Subtitle</h2>
-
-<h2 id="-pagesubtitle-">{{ page.subtitle }}</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td>{{ page</td>
-      <td>web_player_moderator:site }}</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
-
-<ul>
-  <li>Note</li>
-</ul>
-
-<h2 id="shownotes-and-links-1">Shownotes and Links</h2>
+            <description><![CDATA[<h2 id="shownotes-and-links">Shownotes and Links</h2>
 
 <ul>
   <li>Note</li>
 </ul>
 ]]></description>
-            <content:encoded><![CDATA[<h2 id="a-subtle-subtitle">A Subtle Subtitle</h2>
-
-<h2 id="-pagesubtitle-">{{ page.subtitle }}</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td>{{ page</td>
-      <td>web_player_moderator:site }}</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
-
-<ul>
-  <li>Note</li>
-</ul>
-
-<h2 id="shownotes-and-links-1">Shownotes and Links</h2>
+            <content:encoded><![CDATA[<h2 id="shownotes-and-links">Shownotes and Links</h2>
 
 <ul>
   <li>Note</li>
@@ -112,7 +74,7 @@
             
             <enclosure url="http://sidequestspodcast.com/episodes/Episode02.mp3" length="45710138" type="audio/mpeg" guid="ac72b7b8d71328c0674d9ff08d66540e" />
             <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>A Subtle Subtitle</itunes:subtitle>
+            <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
             <itunes:author>Bryce Taylor and Will Macfarlane</itunes:author>
             <itunes:explicit>no</itunes:explicit>
@@ -137,58 +99,20 @@
         
         
           <item>
-            <title>Video Game Canon pt. 1 - A Subtle Subtitle</title>
+            <title>Video Game Canon pt. 1 - </title>
             <link>http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-1.html</link>
             <atom:link rel="http://podlove.org/deep-link" href="http://sidequestspodcast.com/players/video-game-canon-pt_-1"/>
             <comments>http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-1.html#disqus_thread</comments>
             <pubDate>Thu, 15 Jun 2017 00:00:00 +0000</pubDate>
             
             <guid isPermaLink="false">http://sidequestspodcast.com/2017/06/15/video-game-canon-pt_-1.html</guid>
-            <description><![CDATA[<h2 id="a-subtle-subtitle">A Subtle Subtitle</h2>
-
-<h2 id="-pagesubtitle-">{{ page.subtitle }}</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td>{{ page</td>
-      <td>web_player_moderator:site }}</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
-
-<ul>
-  <li>Note</li>
-</ul>
-
-<h2 id="shownotes-and-links-1">Shownotes and Links</h2>
+            <description><![CDATA[<h2 id="shownotes-and-links">Shownotes and Links</h2>
 
 <ul>
   <li>Note</li>
 </ul>
 ]]></description>
-            <content:encoded><![CDATA[<h2 id="a-subtle-subtitle">A Subtle Subtitle</h2>
-
-<h2 id="-pagesubtitle-">{{ page.subtitle }}</h2>
-
-<table>
-  <tbody>
-    <tr>
-      <td>{{ page</td>
-      <td>web_player_moderator:site }}</td>
-    </tr>
-  </tbody>
-</table>
-
-<h2 id="shownotes-and-links">Shownotes and Links</h2>
-
-<ul>
-  <li>Note</li>
-</ul>
-
-<h2 id="shownotes-and-links-1">Shownotes and Links</h2>
+            <content:encoded><![CDATA[<h2 id="shownotes-and-links">Shownotes and Links</h2>
 
 <ul>
   <li>Note</li>
@@ -197,7 +121,7 @@
             
             <enclosure url="http://sidequestspodcast.com/episodes/Episode01.mp3" length="50180774" type="audio/mpeg" guid="9f89ee537a0f582ee5548397d9c1fd99" />
             <itunes:keywords></itunes:keywords>
-            <itunes:subtitle>A Subtle Subtitle</itunes:subtitle>
+            <itunes:subtitle></itunes:subtitle>
             <itunes:summary></itunes:summary>
             <itunes:author>Bryce Taylor and Will Macfarlane</itunes:author>
             <itunes:explicit>no</itunes:explicit>
