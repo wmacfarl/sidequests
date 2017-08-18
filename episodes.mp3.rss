@@ -28,7 +28,7 @@
 </itunes:summary>
     <itunes:author>Bryce Taylor and Will Macfarlane</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="http://sidequestspodcast.com/img/logo-itunes.jpg" />
+    <itunes:image href="http://sidequestspodcast.com/img/logo.jpg" />
     <itunes:owner>
       <itunes:name>Bryce Taylor and Will Macfarlane</itunes:name>
       <itunes:email>sidequestspodcast@gmail.com</itunes:email>
@@ -39,14 +39,13 @@
     <itunes:keywords>games, video games</itunes:keywords>
     <image>
       <title>Sidequests</title>
-      <url>http://sidequestspodcast.com/img/logo-itunes.jpg</url>
+      <url>http://sidequestspodcast.com/img/logo.jpg</url>
       <link>http://sidequestspodcast.com</link>
     </image>
     
-    <itunes:category text="Video Games">
-    
-    </itunes:category>
-    
+<itunes:category xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" text="Games & Hobbies">
+<itunes:category text="Video Games"/>
+</itunes:category>      
     
       
         
