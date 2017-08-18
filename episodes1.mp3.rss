@@ -20,7 +20,7 @@
 <atom:link rel="alternate" href="http://sidequestspodcast.com/episodes.m4a.rss" type="application/rss+xml" title="m4a Episode RSS-Feed"/>
     <description>Conversations about video games and game design
 </description>
-    <lastBuildDate>Thu, 17 Aug 2017 23:02:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 18 Aug 2017 00:08:14 +0000</lastBuildDate>
     <language>en</language>
     <generator>Jekyll-Octopod 0.8.9</generator>
 
@@ -62,13 +62,13 @@
             <description><![CDATA[<h2 id="shownotes-and-links">Shownotes and Links</h2>
 
 <ul>
-  <li>Note</li>
+  <li>This episode continues and concludes our conversation about the “video game canon”</li>
 </ul>
 ]]></description>
             <content:encoded><![CDATA[<h2 id="shownotes-and-links">Shownotes and Links</h2>
 
 <ul>
-  <li>Note</li>
+  <li>This episode continues and concludes our conversation about the “video game canon”</li>
 </ul>
 ]]></content:encoded>
             
@@ -78,14 +78,12 @@
             <itunes:summary></itunes:summary>
             <itunes:author>Bryce Taylor and Will Macfarlane</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>0:01:00</itunes:duration>
+            <itunes:duration>0:47:13</itunes:duration>
             
             
             <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
               
               <psc:chapter start="00:00:00.000" title="Intro." />
-              
-              <psc:chapter start="00:00:30.000" title="Outro." />
               
             </psc:chapters>
             
@@ -109,13 +107,13 @@
             <description><![CDATA[<h2 id="shownotes-and-links">Shownotes and Links</h2>
 
 <ul>
-  <li>Note</li>
+  <li>In this episode we talk about the idea of a video-game canon.</li>
 </ul>
 ]]></description>
             <content:encoded><![CDATA[<h2 id="shownotes-and-links">Shownotes and Links</h2>
 
 <ul>
-  <li>Note</li>
+  <li>In this episode we talk about the idea of a video-game canon.</li>
 </ul>
 ]]></content:encoded>
             
@@ -125,14 +123,12 @@
             <itunes:summary></itunes:summary>
             <itunes:author>Bryce Taylor and Will Macfarlane</itunes:author>
             <itunes:explicit>no</itunes:explicit>
-            <itunes:duration>0:01:00</itunes:duration>
+            <itunes:duration>0:51:53</itunes:duration>
             
             
             <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
               
               <psc:chapter start="00:00:00.000" title="Intro." />
-              
-              <psc:chapter start="00:00:30.000" title="Outro." />
               
             </psc:chapters>
             
