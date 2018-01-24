@@ -2,19 +2,17 @@
 layout: default
 ---
 
+Bryce and Will are game developers who also teach children how to code. We spend a lot of time analyzing and discussing video games.
+
 <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/430634813&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true"></iframe>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+[Check us out on Sound Cloud](https://soundcloud.com/user-433639808/sets).
 
-[Link to another page](another-page).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+# [](#header-1)Other Projects
 
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Check out our other projects at [WhimsySystems.com](whimsysystems.com).
 
 ## [](#header-2)Header 2
 
