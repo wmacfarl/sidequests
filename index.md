@@ -12,4 +12,4 @@ Bryce and Will are game developers who also teach children how to code. We spend
 
 # [](#header-1)Other Projects
 
-Check out our other projects at [WhimsySystems.com](whimsysystems.com).
+Check out our other projects at [WhimsySystems.com](http://whimsysystems.com).
