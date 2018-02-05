@@ -12,4 +12,7 @@ Bryce and Will are game developers who also teach children how to code. We spend
 
 # [](#header-1)Other Projects
 
+We talk quite a lot about [Starbage Man](http://www.partsandcrafts.org/starbageman/) in our most recent episode, episode 11.  If you want to play it check it out here: 
+[http://www.partsandcrafts.org/starbageman/](http://www.partsandcrafts.org/starbageman/)
+
 Check out our other projects at [WhimsySystems.com](http://whimsysystems.com).
