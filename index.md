@@ -8,7 +8,7 @@ Bryce and Will are game developers who also teach children how to code. We spend
 
 Check us out on [Sound Cloud](https://soundcloud.com/user-433639808/sets), [iTunes](https://itunes.apple.com/us/podcast/sidequests/id1273000966?mt=2), and [Google Play](https://play.google.com/music/listen?u=0#/ps/Ifjxoqufwcrxwceaxdtjrnvhoaq)
 
-
+You can email us with questions or comments at contact@sidequestspodcast.com
 
 # [](#header-1)Other Projects
 
